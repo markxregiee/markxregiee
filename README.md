@@ -2,7 +2,7 @@
 </head>
 <h1 align="center">I'm Mark Regie A Magtangob</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
-
+<br>
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **marklegend029@gmail.com**
